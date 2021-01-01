@@ -1,6 +1,6 @@
 # freshworks_assignment
 
-download this code and place in desktop and open command prompt and navigate to this folder 
+Download this code and place in desktop and open command prompt and navigate to this folder 
 run the below commands
 1. pip install requirements.txt
 2. python manage.py makemigrations
