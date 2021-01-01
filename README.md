@@ -1,5 +1,8 @@
 # freshworks_assignment
 
+Assignment_video_link :- https://drive.google.com/file/d/1Qyr7a-THvkX1VbC-xki0hGOn8ucQLyZv/view?usp=sharing
+
+
 Download this code and place in desktop and open command prompt and navigate to this folder 
 run the below commands
 1. pip install requirements.txt
