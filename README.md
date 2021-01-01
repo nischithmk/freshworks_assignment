@@ -7,5 +7,5 @@ run the below commands
 3. python manage.py migrate
 4. python manage.py runserver
 
-Key-value data store used is Redis 
+Key-value data store used is Redis. 
 download Redis and run redis-server(port-6379) and redis-cli
